@@ -137,5 +137,3 @@ Your `AnnData` object should have:
 The repository includes example data files:
 - `data/C1-HT224P1-S1Fc2U1.annotations` - HALO annotation file
 - `data/HT224P1.h5ad` - Visium spatial transcriptomics data
-
-These files demonstrate the alignment process and can be used to test the functionality.
